@@ -1,0 +1,142 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-weight: bolder;
+}
+
+h1 {
+    color: #66BFBF;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    font-weight: bolder;
+} 
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+
+a {
+    color: #11999E;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+hr {
+    color: #EAF6F6;
+    border-style: none;
+    border-top: dotted;
+    border-top-width: 20px;
+    border-width: 7px;
+    width: 4%;
+}
+
+p {
+    line-height: 2;
+}
+
+.top-container {
+    background-color: #76ead7;
+    position:relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    background-color: none;
+    padding-bottom: 50px;
+}
+
+.about-me {
+    width: 30%;
+    margin: auto;
+    padding-bottom: 75px;
+}
+
+.profile-picture {
+    margin-top: 100px;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 20px;
+}
+
+.top-cloud {
+    position: absolute;
+    right:300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left:300px;
+    bottom: 300px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.chilling {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.pressure {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.get-in-touch {
+    font-size: 3rem;
+    font-weight: bolder;
+}
+
+.notice {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+.BUTTON_CTA {
+    margin: 30px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    height: 0px;
+    line-height: 0px;
+    color: #FFFFFF;
+    font-family: Open Sans;
+    width: 137px;
+    font-size: 21px;
+    font-weight: 400;
+    padding: 20px;
+    background-color: #18C9CF;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    }
